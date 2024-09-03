@@ -6,10 +6,12 @@ export const metadata = {
 
 const HomePage = async () => {
 
-  const res = await fetch('http://localhost:5000/shoes')
+  const res = await fetch('http://localhost:5000/shoes',{
+    next:{
+      revalidate:5
+    },
+  })
   const data = await res.json()
-
-
 
   return (
     <div className="p-10">
