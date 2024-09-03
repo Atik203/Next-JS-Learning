@@ -4,13 +4,13 @@
       "id": "1",
       "title": "Running Shoes",
       "description": "Lightweight running shoes with breathable mesh upper and cushioned sole.",
-      "price": 79.99
+      "price": 100
     },
     {
       "id": "2",
       "title": "Basketball Shoes",
       "description": "High-top basketball shoes with ankle support and durable rubber outsole.",
-      "price": 99.99
+      "price": 200
     },
     {
       "id": "3",
