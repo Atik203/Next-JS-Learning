@@ -1,0 +1,34 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "Running Shoes",
+      "description": "Lightweight running shoes with breathable mesh upper and cushioned sole.",
+      "price": 79.99
+    },
+    {
+      "id": "2",
+      "title": "Basketball Shoes",
+      "description": "High-top basketball shoes with ankle support and durable rubber outsole.",
+      "price": 99.99
+    },
+    {
+      "id": "3",
+      "title": "Casual Sneakers",
+      "description": "Stylish casual sneakers with a comfortable fit and versatile design.",
+      "price": 59.99
+    },
+    {
+      "id": "4",
+      "title": "Hiking Boots",
+      "description": "Rugged hiking boots with waterproof construction and superior traction.",
+      "price": 129.99
+    },
+    {
+      "id": "5",
+      "title": "Dress Shoes",
+      "description": "Elegant dress shoes made from premium leather with a polished finish.",
+      "price": 149.99
+    }
+  ]
+}
